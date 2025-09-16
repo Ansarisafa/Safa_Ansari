@@ -1,9 +1,7 @@
 # Safa_Ansari  
 
 A data analysis project on cryptocurrency trends.  
-This project transforms cryptocurrency investment from speculation to data-driven decision making. By analyzing historical market data and developing a *Fair & Good Index* combined with *behavioral analysis, this work provides actionable insights for identifying high-potential assets like **HTTP* and *AAVE* while minimizing emotional trading biases.  
-
----
+This project transforms cryptocurrency investment from speculation to data-driven decision making. By analyzing historical market data and developing a *Fair & Good Index* combined with *behavioral analysis, this work provides actionable insights for identifying high-potential assets.
 
 ## 📈 Key Features  
 - *Fair & Good Index Development*: Quantitative framework for asset evaluation  
