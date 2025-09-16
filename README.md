@@ -4,6 +4,7 @@ A data analysis project on cryptocurrency trends.
 This project transforms cryptocurrency investment from speculation to data-driven decision making. By analyzing historical market data and developing a Fair & Good Index combined with behavioral analysis, this work provides actionable insights for identifying high-potential assets like HTTP and AAVE while minimizing emotional trading biases.
 
 **📈 Key Features**
+
 Fair & Good Index Development: Quantitative framework for asset evaluation
 
 Behavioral Analysis: Identifying patterns in market sentiment and trader behavior
@@ -12,7 +13,8 @@ High-Potential Asset Identification: Data-driven approach to finding promising c
 
 Risk Assessment: Volatility and correlation analysis for portfolio optimization
 
-🔍 Methodology
+**🔍 Methodology**
+
 Data Collection & Cleaning
 
 Historical price data from multiple exchanges
