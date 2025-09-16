@@ -1,50 +1,9 @@
 # Safa_Ansari
 A data analysis project on cryptocurrency trends.
-Prerequisites
-Python 3.8+
 
-Google Account (for Colab)
+This project transforms cryptocurrency investment from speculation to data-driven decision making. By analyzing historical market data and developing a Fair & Good Index combined with behavioral analysis, this work provides actionable insights for identifying high-potential assets like HTTP and AAVE while minimizing emotional trading biases.
 
-Git
-
-Installation & Setup
-Clone the repository:
-
-bash
-git clone https://github.com/your-username/ds_safa_ansari.git
-cd ds_safa_ansari
-Open in Google Colab:
-
-Upload analysis_notebook.ipynb to Google Colab
-
-Run the initial cells to set up the environment
-
-Install dependencies:
-
-bash
-pip install -r requirements.txt
-Or in Colab:
-
-python
-!pip install pandas numpy matplotlib seaborn plotly
-Data Acquisition
-Since the full historical dataset exceeds GitHub's size limits:
-
-Download from alternative source:
-
-Visit Kaggle Cryptocurrency Historical Prices
-
-Download the complete dataset
-
-Place in the csv_files/ directory
-
-Or use the provided sample:
-
-The repository includes csv_files/sample_dataset.csv for initial exploration
-
-This contains limited data for demonstration purposes
-
-📈 Key Features
+*#📈 Key Features*
 Fair & Good Index Development: Quantitative framework for asset evaluation
 
 Behavioral Analysis: Identifying patterns in market sentiment and trader behavior
