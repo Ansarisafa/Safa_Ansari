@@ -1,5 +1,5 @@
 # Safa_Ansari  
-##⭐Trading Behavior & Market Sentiment Analysis
+## ⭐Trading Behavior & Market Sentiment Analysis
 
 A data analysis project on cryptocurrency trends.  
 This project transforms cryptocurrency investment from speculation to data-driven decision making. By analyzing historical market data and developing a *Fair & Good Index* combined with *behavioral analysis*, this work provides actionable insights for identifying high-potential assets.
